@@ -1,2 +1,2 @@
 # CursoOdoo
-mis pruebas
+Luis Armando Del Pozo Portillo
