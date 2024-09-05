@@ -1,0 +1,1 @@
+espero de este curso un mejor entendimiento del manejo de codigo por versiones con github y su implementacion en la plataforma de Odoo.sh

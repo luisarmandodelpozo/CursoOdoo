@@ -1,2 +1,3 @@
 # CursoOdoo
-mis pruebas
+xfx
+Luis Armando Del Pozo Portillo
